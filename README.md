@@ -25,9 +25,10 @@ Code reviews can be found in the code-review.md file
  ### Third level heading
  
  **bold text**
+ *italic text*
  ~~Strikethrough text~~
- 
- <p> Wow
+
+ <p> Wow code <p>
 
 Title
 Overview
